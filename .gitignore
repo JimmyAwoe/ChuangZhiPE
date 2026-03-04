@@ -1,2 +1,6 @@
 *.zip
 __MACOSX
+探索报告_origin.md
+code/outputs
+code/__pycache__
+.gitignore
