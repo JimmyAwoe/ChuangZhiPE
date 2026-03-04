@@ -1,0 +1,18 @@
+# Core dependencies for prompt engineering code generation project
+
+# LLM API client
+openai>=1.0.0
+
+# Tokenizer
+transformers>=4.35.0
+sentencepiece>=0.1.99
+
+# Code execution environment
+# Note: code_reward is a local module, ensure it's properly set up
+
+# Utilities
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# vLLM (optional, for serving the model)
+# vllm>=0.3.0
